@@ -1,3 +1,6 @@
+all in one token contract with tax fees, single staking, and LP staking. configurable yield params for emissions and lockups
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
