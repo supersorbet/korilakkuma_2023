@@ -270,7 +270,7 @@ contract Korilakkuma is IERC20, farmInterface, Ownable, ReentrancyGuard {
     uint256 internal _totalSupply;
 
     /// @notice Admin address.
-    address internal constant _P1 = 0x725252Fd175AB01078B86e8D14bBf1E40B56D078;
+    address internal constant _P1 = 'your owner/admin address';
 
     /// @notice Flag indicating whether the contract is locked.
     bool public isLocked = false;
