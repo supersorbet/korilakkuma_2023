@@ -127,7 +127,7 @@ contract farmInterface {
     event TokenBurn(address indexed user, uint256 value);
 }
 
-/*´:°• author supersorbet - @pepylamine 2023
+/*´:°• author supersorbet - @pepylamine 2023 */
 
 contract Korilakkuma is IERC20, farmInterface, Ownable, ReentrancyGuard {
     using SafeTransferLib for address;
