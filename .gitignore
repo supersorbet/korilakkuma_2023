@@ -12,3 +12,7 @@ docs/
 
 # Dotenv file
 .env
+cache/
+out/
+broadcast/
+.env
